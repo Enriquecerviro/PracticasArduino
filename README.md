@@ -40,7 +40,7 @@ En esta practica vamos a añadir un dispositivo de sonido llamado buzzer.
 En esta vamos a utilizar un servomotor.
 - Para ello vamos a concectar el ping de i/o, el de voltaje y el GND.
 
-![esquema](practicasimagenes/practica1.png)
+![esquema](practicasimagenes/practica4.png)
 
 ## Conclusiones
 Con estas pequeñas practicas nos hemos introcido en como funciona el sistema arduino, se podría decir que ya estamos preparados para embarcarnos en el siguiente proyecto medianamente serio, que será construir nuestra pequeña Base Meteorológica, seguid atentos!!
